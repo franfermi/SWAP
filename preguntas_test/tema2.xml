@@ -1,17 +1,17 @@
 <pregunta>
-  <enunciado>el texto del enunciado</enunciado>
-  <opcionA>primera opcion</opcionA>
-  <opcionB>segunda opcion</opcionB>
-  <opcionC>tercera opcion</opcionC>
-  <opcionD>cuarta opcion</opcionD>
-  <solucion>C</solucion>
+  <enunciado>Selecciona la opción correcta. Para obtener una alta disponibilidad, necesitamos...</enunciado>
+  <opcionA>Sólo debería haber ”tiempos de no-disponibilidad no programados” (y lo más cortos posibles).</opcionA>
+  <opcionB>Sólo debería haber ”tiempos de no-disponibilidad programados” (y lo más cortos posibles).</opcionB>
+  <opcionC>Tener un 90% de disponibilidad.</opcionC>
+  <opcionD>Evitar la réplica de los servidores</opcionD>
+  <solucion>B</solucion>
 </pregunta>
 
 <pregunta>
-  <enunciado>el texto del enunciado</enunciado>
-  <opcionA>primera opcion</opcionA>
-  <opcionB>segunda opcion</opcionB>
-  <opcionC>tercera opcion</opcionC>
-  <opcionD>cuarta opcion</opcionD>
-  <solucion>C</solucion>
+  <enunciado>Selecciona la opción correcta. En función de la escalabilidad, ¿con qué se obtiene un mayor impacto?</enunciado>
+  <opcionA>Diseño.</opcionA>
+  <opcionB>Optimización del producto.</opcionB>
+  <opcionC>Optimización del hardware.</opcionC>
+  <opcionD>Optimización del código.</opcionD>
+  <solucion>A</solucion>
 </pregunta>
