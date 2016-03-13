@@ -1,17 +1,17 @@
 <pregunta>
-  <enunciado>el texto del enunciado</enunciado>
-  <opcionA>primera opcion</opcionA>
-  <opcionB>segunda opcion</opcionB>
-  <opcionC>tercera opcion</opcionC>
-  <opcionD>cuarta opcion</opcionD>
+  <enunciado>Selecciona la opción incorrecta. Un sitio web mal planificado...</enunciado>
+  <opcionA>Opción más rápida y barata.</opcionA>
+  <opcionB>Caída del servicio al incrementar el número de peticiones.</opcionB>
+  <opcionC>Fácil arreglo de errores de disponibilidad.</opcionC>
+  <opcionD>Modificaciones directamente en el servidor de producción.</opcionD>
   <solucion>C</solucion>
 </pregunta>
 
 <pregunta>
-  <enunciado>el texto del enunciado</enunciado>
-  <opcionA>primera opcion</opcionA>
-  <opcionB>segunda opcion</opcionB>
-  <opcionC>tercera opcion</opcionC>
-  <opcionD>cuarta opcion</opcionD>
-  <solucion>C</solucion>
+  <enunciado>Selecciona la opción correcta. La estructura general de una granja web es:</enunciado>
+  <opcionA>2 servidores web y 4 servidores de BD.</opcionA>
+  <opcionB>1 servidor web, 2 servidores de BD y 2 servidores de correo.</opcionB>
+  <opcionC>1 servidor web, 1 servidor de BD y 1 servidor de correo.</opcionC>
+  <opcionD>4 servidores web, 2 servidores de BD y 2 servidores de correo.</opcionD>
+  <solucion>D</solucion>
 </pregunta>
