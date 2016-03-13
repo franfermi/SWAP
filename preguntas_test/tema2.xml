@@ -3,7 +3,7 @@
   <opcionA>Opción más rápida y barata.</opcionA>
   <opcionB>Caída del servicio al incrementar el número de peticiones.</opcionB>
   <opcionC>Fácil arreglo de errores de disponibilidad.</opcionC>
-  <opcionD>Modificaciones diractamente en el servidor de producción.</opcionD>
+  <opcionD>Modificaciones directamente en el servidor de producción.</opcionD>
   <solucion>C</solucion>
 </pregunta>
 
