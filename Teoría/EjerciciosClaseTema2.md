@@ -49,7 +49,12 @@ iostat      |Muestra estadísticas sobre la lectura/escritura de los dispositivo
 
 **IPVS**, implementa la capa de transporte de carga balanceadora en el interior del núcleo de Linux. IPVS se ejecuta en un host que actúa como un balanceador de carga en la parte delantera de un grupo de servidores reales, se pueden dirigir las solicitudes de servicios basados en TCP / UDP para los servidores reales, y hace que los servicios de los servidores reales que aparecen como un servicio virtual en una única dirección IP.
 
+**mysqlnd (mysqlnd_ms)**, extensión de MySQL para PHP, operan, en mayor parte, de forma transparente desde la perspectiva del usuario. El complemento de replicación y equilibrado de carga admite todas las aplicaciones de PHP y todas las extensiones de MySQL para PHP. No cambia las APIs existentes. Por lo tanto, se puede usar fácilmente con las aplicaciones de PHP existentes. 
+
 ###Balanceadores hardware
+**LoadMaster**, producto de KEMP Technologies, es un balanceador de carga hardware con su propia plataforma software llamada LMOS, que permite correr en cualquier tipo de plataforma como: aplicacion LoadMaster, LoadMaster virtualizado y como LoadMaster con servicio en la nube.
+
+--Completar--
 
 
 
