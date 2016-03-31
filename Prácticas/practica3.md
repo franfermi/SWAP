@@ -58,11 +58,10 @@ Desde el navegador
 
 ![imagen](imagenesP3/confHaproxy.png)
 
--Para comprobar el funcionamiento del balanceador, realizamos cURL desde la máquina anfritiona con la IP del balanceador,
-
+-Para comprobar el funcionamiento del balanceador, realizamos cURL desde la máquina anfritiona con la IP del balanceador, 
 pero antes tenemos que detener el servicio de nginx para que deje libre el puerto 80.
 
-------Imagen------
+![imagen](imagenesP3/matarServicioNginx.png)
 
 -Ahora si realizamos las peticiones
 
