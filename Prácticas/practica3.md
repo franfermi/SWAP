@@ -62,7 +62,7 @@ Desde el navegador
 
 pero antes tenemos que detener el servicio de nginx para que deje libre el puerto 80.
 
-![imagen](imagenesP3/matarServicioNginx.png)
+------Imagen------
 
 -Ahora si realizamos las peticiones
 
