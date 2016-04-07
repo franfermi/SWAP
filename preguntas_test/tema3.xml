@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>Existen varias alternativas para conectar la granja web, entre ellas hemos estudiado:</enunciado>
+  <opcionA>Configuración con DMZ, DMZ simple, DMZ tradicional, DMZ doble.</opcionA>
+  <opcionB>Configuración con DMZ, DMZ compuesto, DMZ tradicional, DMZ doble.</opcionB>
+  <opcionC>Configuración sin DMZ, DMZ simple, DMZ tradicional, DMZ doble.</opcionC>
+  <opcionD>Configuración sin DMZ, DMZ simple, DMZ tradicional, DMZ múltiple.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Hay dos tipos de servidores que se conectan al frontt-rail, selecciona la opción correcta.</enunciado>
+  <opcionA>Single-NIC: conectado sólo a la subred frontal; aislado de la trasera.</opcionA>
+  <opcionB>Single-NIC: conectado sólo a la subred trasera; aislado de la delantera.</opcionB>
+  <opcionC>Multi-NIC: conectado sólo a la trasera.</opcionC>
+  <opcionD>Multi-NIC: Multi-NIC no es tipo de servidor.</opcionD>
+  <solucion>A</solucion>
+</pregunta>
