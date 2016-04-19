@@ -1,0 +1,42 @@
+This is ApacheBench, Version 2.3 <$Revision: 1528965 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking ubuntu03-b (be patient)
+
+
+Server Software:        Apache/2.2.22
+Server Hostname:        ubuntu03-b
+Server Port:            80
+
+Document Path:          /hola.html
+Document Length:        47 bytes
+
+Concurrency Level:      5
+Time taken for tests:   3.194 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      322500 bytes
+HTML transferred:       47000 bytes
+Requests per second:    313.04 [#/sec] (mean)
+Time per request:       15.972 [ms] (mean)
+Time per request:       3.194 [ms] (mean, across all concurrent requests)
+Transfer rate:          98.59 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    1   0.7      1      10
+Processing:     7   15   3.8     14      31
+Waiting:        6   14   3.7     13      30
+Total:          8   16   3.8     15      31
+
+Percentage of the requests served within a certain time (ms)
+  50%     15
+  66%     17
+  75%     18
+  80%     19
+  90%     21
+  95%     23
+  98%     26
+  99%     28
+ 100%     31 (longest request)
