@@ -1,4 +1,4 @@
-#Práctica 1#
+#Práctica 1. Preparación de las herramientas.
 
 ##Versión de Apache instalado y en ejecución##
 
