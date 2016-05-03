@@ -53,8 +53,3 @@ iostat      |Muestra estadísticas sobre la lectura/escritura de los dispositivo
 
 ###Balanceadores hardware
 **LoadMaster**, producto de KEMP Technologies, es un balanceador de carga hardware con su propia plataforma software llamada LMOS, que permite correr en cualquier tipo de plataforma como: aplicacion LoadMaster, LoadMaster virtualizado y como LoadMaster con servicio en la nube.
-
---Completar--
-
-
-
