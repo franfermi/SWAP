@@ -4,7 +4,7 @@
   <opcionB>Capa 4.</opcionB>
   <opcionC>Capa 5.</opcionC>
   <opcionD>El modelo OSI no tiene ninguna relación con el balanceo de carga.</opcionD>
-  <solucion>C</solucion>
+  <solucion>B</solucion>
 </pregunta>
 
 <pregunta>
@@ -14,5 +14,5 @@
   <opcionB>Redundancia.</opcionB>
   <opcionC>Algoritmos de balanceo de carga.</opcionC>
   <opcionD>Persistencia.</opcionD>
-  <solucion>C</solucion>
+  <solucion>D</solucion>
 </pregunta>
