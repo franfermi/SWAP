@@ -8,10 +8,10 @@
 </pregunta>
 
 <pregunta>
-  <enunciado>Hay dos tipos de servidores que se conectan al frontt-rail, selecciona la opción correcta.</enunciado>
+  <enunciado>Hay dos tipos de servidores que se conectan al front-rail, selecciona uno de ellos.</enunciado>
   <opcionA>Single-NIC: conectado sólo a la subred frontal; aislado de la trasera.</opcionA>
   <opcionB>Single-NIC: conectado sólo a la subred trasera; aislado de la delantera.</opcionB>
   <opcionC>Multi-NIC: conectado sólo a la trasera.</opcionC>
-  <opcionD>Multi-NIC: Multi-NIC no es tipo de servidor.</opcionD>
+  <opcionD>Multi-NIC: conectado sólo a la frontal.</opcionD>
   <solucion>A</solucion>
 </pregunta>

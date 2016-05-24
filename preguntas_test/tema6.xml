@@ -1,18 +1,18 @@
 <pregunta>
-  <enunciado>¿En qué capa se encuentra el balanceo de carga según el modelo OSI?</enunciado>
-  <opcionA>Capa 3.</opcionA>
-  <opcionB>Capa 4.</opcionB>
-  <opcionC>Capa 5.</opcionC>
-  <opcionD>El modelo OSI no tiene ninguna relación con el balanceo de carga.</opcionD>
-  <solucion>C</solucion>
+  <enunciado>En seguridad a nivel de red, ¿cuántas subredes tendrán al menos
+  cualquier gran sistema?</enunciado>
+  <opcionA>1</opcionA>
+  <opcionB>2</opcionB>
+  <opcionC>3</opcionC>
+  <opcionD>Es indiferente</opcionD>
+  <solucion>B</solucion>
 </pregunta>
 
 <pregunta>
-  <enunciado>¿A qué concepto pertenece la siguiente definición? Se refiere a mantener el tráfico de un usuario dirigido
-  al servidor que comenzó a atenderlo.</enunciado>
-  <opcionA>Comprobación de disponibilidad de servicio.</opcionA>
-  <opcionB>Redundancia.</opcionB>
-  <opcionC>Algoritmos de balanceo de carga.</opcionC>
-  <opcionD>Persistencia.</opcionD>
+  <enunciado>¿Que tipo de ataque no puede evitar un balanceador?</enunciado>
+  <opcionA>Denegación de servicio</opcionA>
+  <opcionB>TCP SYC</opcionB>
+  <opcionC>IP of death</opcionC>
+  <opcionD>Teardrop</opcionD>
   <solucion>C</solucion>
 </pregunta>
